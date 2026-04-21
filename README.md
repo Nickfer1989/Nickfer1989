@@ -1,7 +1,5 @@
-<!-- Encabezado -->
-<h1 align="center">
-  ¡Hola! Soy Nicolás Fernández 👋
-</h1>
+<h1 align="center">¡Hola! Soy Nicolás Fernández 👋</h1>
+
 <p align="center">
   Soy un apasionado por la tecnología, egresado de la <strong>Tecnicatura Universitaria en Programación en la UTN</strong>. Actualmente estoy en búsqueda activa de mi primera oportunidad laboral como <strong>Desarrollador Trainee/Junior</strong> o <strong>Soporte Técnico Junior</strong>.
 </p>
@@ -18,7 +16,7 @@
 
 ---
 
-### 🚀 Sobre Mí
+<h3 align="center">🚀 Sobre Mí</h3>
 
 Mi trayectoria profesional comenzó en el área administrativa, donde desarrollé una gran atención al detalle y habilidades de gestión. En paralelo, mi pasión por resolver problemas me llevó a trabajar como **Técnico de PC freelance**, donde adquirí experiencia práctica en hardware, software y redes.
 
@@ -30,7 +28,7 @@ Hoy, con mi formación en la UTN finalizada, enfoco mi carrera en el **desarroll
 
 ---
 
-### 🛠️ Mi Stack de Tecnologías y Habilidades
+<h3 align="center">🛠️ Mi Stack de Tecnologías y Habilidades</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -55,7 +53,7 @@ Hoy, con mi formación en la UTN finalizada, enfoco mi carrera en el **desarroll
 
 ---
 
-### 🏆 Mis Proyectos
+<h3 align="center">🏆 Mis Proyectos</h3>
 
 | Proyecto | Descripción | Tecnologías Clave | Demo |
 |---|---|---|---|
@@ -70,14 +68,16 @@ Hoy, con mi formación en la UTN finalizada, enfoco mi carrera en el **desarroll
 
 ---
 
-### 🎓 Formación Académica
+<h3 align="center">🎓 Formación Académica</h3>
 
-- **Técnico Universitario en Programación** - Universidad Tecnológica Nacional (UTN) - *2025*
-- **Bachiller en Economía y Gestión** - Colegio Ernesto Pérez Cuesta - *2007*
+<p align="center">
+  🎓 <strong>Técnico Universitario en Programación</strong> — Universidad Tecnológica Nacional (UTN) — <em>2025</em><br/>
+  📜 <strong>Bachiller en Economía y Gestión</strong> — Colegio Ernesto Pérez Cuesta — <em>2007</em>
+</p>
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+<h3 align="center">📊 Mis Estadísticas en GitHub</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nickfer1989&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
